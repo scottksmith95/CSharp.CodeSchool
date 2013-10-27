@@ -5,7 +5,7 @@ C# .NET wrapper for Code School's profile API
 
 ##Nuget Package
 
-    Install-Package CSharp.CodeSchool
+    Install-Package CSharp.CodeSchool.Api
 
 ##Usage
 
