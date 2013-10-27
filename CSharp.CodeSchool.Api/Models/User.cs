@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharp.CodeSchool.Api.Models
+namespace CSharp.CodeSchool
 {
     public class User
     {

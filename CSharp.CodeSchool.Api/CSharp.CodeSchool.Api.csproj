@@ -7,8 +7,8 @@
     <ProjectGuid>{5CCF6C88-FC71-4FC1-97F7-43AC2B6EE7BA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSharp.CodeSchool.Api</RootNamespace>
-    <AssemblyName>CSharp.CodeSchool.Api</AssemblyName>
+    <RootNamespace>CSharp.CodeSchool</RootNamespace>
+    <AssemblyName>CSharp.CodeSchool</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>

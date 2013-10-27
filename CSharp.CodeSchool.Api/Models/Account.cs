@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CSharp.CodeSchool.Api.Models
+namespace CSharp.CodeSchool
 {
     public class Account : CodeSchoolBase
     {

@@ -6,7 +6,7 @@ using System.Text;
 using System;
 using System.Net;
 
-namespace CSharp.CodeSchool.Api
+namespace CSharp.CodeSchool
 {
     public partial class CodeSchoolRestClient
     {

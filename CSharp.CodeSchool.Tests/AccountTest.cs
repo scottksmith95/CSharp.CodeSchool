@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CSharp.CodeSchool.Api;
+using CSharp.CodeSchool;
 
 namespace CSharp.CodeSchool.Tests
 {

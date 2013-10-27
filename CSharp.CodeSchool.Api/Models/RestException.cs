@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharp.CodeSchool.Api.Models
+namespace CSharp.CodeSchool
 {
     /// <summary>
     /// Exceptions returned in the HTTP response body when something goes wrong.

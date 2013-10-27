@@ -1,8 +1,7 @@
-﻿using CSharp.CodeSchool.Api.Models;
-using RestSharp;
+﻿using RestSharp;
 using System;
 
-namespace CSharp.CodeSchool.Api
+namespace CSharp.CodeSchool
 {
     public partial class CodeSchoolRestClient
     {
