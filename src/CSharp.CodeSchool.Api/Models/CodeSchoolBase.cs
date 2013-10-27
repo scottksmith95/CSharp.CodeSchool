@@ -3,7 +3,7 @@
 namespace CSharp.CodeSchool
 {
     /// <summary>
-    /// Base class for all Code SchoolS resource types
+    /// Base class for all Code School resource types
     /// </summary>
     public abstract class CodeSchoolBase
     {
