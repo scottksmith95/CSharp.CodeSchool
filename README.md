@@ -10,7 +10,7 @@ C# .NET wrapper for Code School's profile API
 ##Usage
 
 ````C#
-using CSharp.CodeSchool.Api;
+using CSharp.CodeSchool;
 ````
 
 ````C#
